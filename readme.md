@@ -6,6 +6,16 @@ Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
+## My challenge
+
+> [https://chenuin.github.io/JavaScript30/](https://chenuin.github.io/JavaScript30/)
+- Day 01: [JavaScript Drum Kit](https://chenuin.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/) --- *2022/06/08* 👉 ( [source](01%20-%20JavaScript%20Drum%20Kit/index.html) / [note](01%20-%20JavaScript%20Drum%20Kit/README.md) )
+- Day 02: JS and CSS Clock
+- Day 03: CSS Variables
+- Day 04: Array Cardio Day 1
+- Day 05: Flex Panel Gallery
+- Day 06: Type Ahead
+
 ## Community #JavaScript30 Content
 
 Feel free to submit a PR adding a link to your own recaps, guides or reviews!
