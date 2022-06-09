@@ -10,11 +10,20 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 
 > [https://chenuin.github.io/JavaScript30/](https://chenuin.github.io/JavaScript30/)
 - Day 01: [JavaScript Drum Kit](https://chenuin.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/) --- *2022/06/08* 👉 ( [source](01%20-%20JavaScript%20Drum%20Kit/index.html) / [note](01%20-%20JavaScript%20Drum%20Kit/README.md) )
-- Day 02: JS and CSS Clock
+- Day 02: [JS and CSS Clock](https://chenuin.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/) --- *2022/06/09* 👉 ( [source](02%20-%20JS%20and%20CSS%20Clock/index.html) )
 - Day 03: CSS Variables
 - Day 04: Array Cardio Day 1
 - Day 05: Flex Panel Gallery
 - Day 06: Type Ahead
+- Day 07: Array Cardio Day 2
+- Day 08: Fun with HTML5 Canvas
+- Day 09: Dev Tools Domination
+- Day 10: Hold Shift and Check Checkboxes
+- Day 11: Custom Video Player
+- Day 12: Key Sequence Detection
+- Day 13: Slide in on Scroll
+- Day 14: JavaScript References VS Copying
+- Day 15: LocalStorage
 
 ## Community #JavaScript30 Content
 
