@@ -11,8 +11,8 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 > [https://chenuin.github.io/JavaScript30/](https://chenuin.github.io/JavaScript30/)
 - Day 01: [JavaScript Drum Kit](https://chenuin.github.io/JavaScript30/01%20-%20JavaScript%20Drum%20Kit/) --- *2022/06/08* 👉 ( [source](01%20-%20JavaScript%20Drum%20Kit/index.html) / [note](01%20-%20JavaScript%20Drum%20Kit/README.md) )
 - Day 02: [JS and CSS Clock](https://chenuin.github.io/JavaScript30/02%20-%20JS%20and%20CSS%20Clock/) --- *2022/06/09* 👉 ( [source](02%20-%20JS%20and%20CSS%20Clock/index.html) / [note](02%20-%20JS%20and%20CSS%20Clock/README.md) )
-- Day 03: [CSS Variables](https://chenuin.github.io/JavaScript30/03%20-%20CSS%20Variables/) --- *2022/06/09* 👉 ( [source](03%20-%20CSS%20Variables/index.html) / [note](03%20-%20CSS%20Variables/README.md) )
-- Day 04: Array Cardio Day 1
+- Day 03: [CSS Variables](https://chenuin.github.io/JavaScript30/03%20-%20CSS%20Variables/) --- *2022/06/10* 👉 ( [source](03%20-%20CSS%20Variables/index.html) / [note](03%20-%20CSS%20Variables/README.md) )
+- Day 04: [Array Cardio Day 1](https://chenuin.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/) --- *2022/06/11* 👉 ( [source](04%20-%20Array%20Cardio%20Day%201/index.html) / [note](04%20-%20Array%20Cardio%20Day%201/README.md) )
 - Day 05: Flex Panel Gallery
 - Day 06: Type Ahead
 - Day 07: Array Cardio Day 2
