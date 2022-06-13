@@ -14,7 +14,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Day 03: [CSS Variables](https://chenuin.github.io/JavaScript30/03%20-%20CSS%20Variables/) --- *2022/06/10* 👉 ( [source](03%20-%20CSS%20Variables/index.html) / [note](03%20-%20CSS%20Variables/README.md) )
 - Day 04: [Array Cardio Day 1](https://chenuin.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/) --- *2022/06/11* 👉 ( [source](04%20-%20Array%20Cardio%20Day%201/index.html) / [note](04%20-%20Array%20Cardio%20Day%201/README.md) )
 - Day 05: [Flex Panel Gallery](https://chenuin.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/) --- *2022/06/12* 👉 ( [source](05%20-%20Flex%20Panel%20Gallery/index.html) / [note](05%20-%20Flex%20Panel%20Gallery/README.md) )
-- Day 06: Type Ahead
+- Day 06: [Type Ahead](https://chenuin.github.io/JavaScript30/06%20-%20Type%20Ahead/) --- *2022/06/13* 👉 ( [source](06%20-%20Type%20Ahead/index.html) )
 - Day 07: Array Cardio Day 2
 - Day 08: Fun with HTML5 Canvas
 - Day 09: Dev Tools Domination
