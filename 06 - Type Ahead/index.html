@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Type Ahead 👀</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <form class="search-form">
+    <input type="text" class="search" placeholder="City or State">
+    <ul class="suggestions">
+      <li>Filter for a city</li>
+      <li>or a state</li>
+    </ul>
+  </form>
+<script>
+const endpoint = 'https://gist.githubusercontent.com/Miserlou/c5cd8364bf9b2420bb29/raw/2bf258763cdddd704f8ffd3ea9a3e81d25e2c6f6/cities.json';
+
+let data = [];
+
+fetch(endpoint)
+  .then(response => response.json())
+  .then(result => {
+    data = result.map(item => ({
+      ...item,
+      name: `${item.city.toLowerCase()}, ${item.state.toLowerCase()}`,
+    }));
+  });
+
+const searchEl = document.querySelector('input.search');
+const suggestionsEl = document.querySelector('.suggestions');
+
+const createPopulation = population => {
+  const populationEl = document.createElement('span');
+
+  populationEl.classList.add('population');
+  populationEl.innerText = new Intl.NumberFormat().format(population);
+
+  return populationEl;
+};
+
+const createName = (name, keyword) => {
+  const nameEl = document.createElement('span');
+
+  nameEl.innerHTML = name.replaceAll(keyword, `<span class="hl">${keyword}</span>`);
+
+  return nameEl;
+};
+
+searchEl.oninput = e => {
+  const keyword = e.target.value.toLowerCase();
+
+  suggestionsEl.replaceChildren();
+
+  const list = data.filter(({name}) => name.includes(keyword));
+
+  list.forEach(({name, population}) => {
+    const container = document.createElement('li');
+
+    container.append(createName(name, keyword));
+    container.append(createPopulation(population));
+
+    suggestionsEl.append(container);
+  });
+};
+</script>
+</body>
+</html>
