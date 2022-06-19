@@ -15,12 +15,12 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Day 04: [Array Cardio Day 1](https://chenuin.github.io/JavaScript30/04%20-%20Array%20Cardio%20Day%201/) --- *2022/06/11* 👉 ( [source](04%20-%20Array%20Cardio%20Day%201/index.html) / [note](04%20-%20Array%20Cardio%20Day%201/README.md) )
 - Day 05: [Flex Panel Gallery](https://chenuin.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/) --- *2022/06/12* 👉 ( [source](05%20-%20Flex%20Panel%20Gallery/index.html) / [note](05%20-%20Flex%20Panel%20Gallery/README.md) )
 - Day 06: [Type Ahead](https://chenuin.github.io/JavaScript30/06%20-%20Type%20Ahead/) --- *2022/06/13* 👉 ( [source](06%20-%20Type%20Ahead/index.html) )
-- Day 07: Array Cardio Day 2
+- Day 07: [Array Cardio Day 2](https://chenuin.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/) --- *2022/06/19* 👉 ( [source](07%20-%20Array%20Cardio%20Day%202/index.html) )
 - Day 08: Fun with HTML5 Canvas
 - Day 09: Dev Tools Domination
 - Day 10: Hold Shift and Check Checkboxes
-- Day 11: Custom Video Player
-- Day 12: Key Sequence Detection
+- Day 11: [Custom Video Player](https://chenuin.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/) --- *2022/06/19* 👉 ( [source](11%20-%20Custom%20Video%20Player/index.html) )
+- Day 12: [Key Sequence Detection](https://chenuin.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/) --- *2022/06/19* 👉 ( [source](12%20-%20Key%20Sequence%20Detection/index.html) )
 - Day 13: Slide in on Scroll
 - Day 14: JavaScript References VS Copying
 - Day 15: LocalStorage
