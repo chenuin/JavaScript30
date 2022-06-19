@@ -16,7 +16,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Day 05: [Flex Panel Gallery](https://chenuin.github.io/JavaScript30/05%20-%20Flex%20Panel%20Gallery/) --- *2022/06/12* 👉 ( [source](05%20-%20Flex%20Panel%20Gallery/index.html) / [note](05%20-%20Flex%20Panel%20Gallery/README.md) )
 - Day 06: [Type Ahead](https://chenuin.github.io/JavaScript30/06%20-%20Type%20Ahead/) --- *2022/06/13* 👉 ( [source](06%20-%20Type%20Ahead/index.html) )
 - Day 07: [Array Cardio Day 2](https://chenuin.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/) --- *2022/06/19* 👉 ( [source](07%20-%20Array%20Cardio%20Day%202/index.html) )
-- Day 08: Fun with HTML5 Canvas
+- Day 08: Fun with HTML5 Canvas(https://chenuin.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/) --- *2022/06/19* 👉 ( [source](08%20-%20Fun%20with%20HTML5%20Canvas/index.html) )
 - Day 09: Dev Tools Domination
 - Day 10: Hold Shift and Check Checkboxes
 - Day 11: [Custom Video Player](https://chenuin.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/) --- *2022/06/19* 👉 ( [source](11%20-%20Custom%20Video%20Player/scripts.js) )
