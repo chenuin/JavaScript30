@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>HTML5 Canvas</title>
+</head>
+<body>
+<canvas id="draw" width="800" height="800"></canvas>
+<script>
+  const c = document.getElementById('draw');
+  const ctx = c.getContext('2d');
+
+  c.width = window.innerWidth;
+  c.height = window.innerHeight;
+
+  ctx.lineCap = 'bevel'; // 'butt'(default), 'square'
+  ctx.lineJoin = 'bevel'; // 'miter', 'bevel'
+  ctx.globalCompositeOperation = 'screen'; // https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/globalCompositeOperation
+
+  let isDrawing = false;
+  let startX;
+  let startY;
+
+  let hue = 0;
+  let lineWidth = 0;
+  let direction = true;
+
+  function draw({offsetX, offsetY}) {
+    if (!isDrawing) {
+      return;
+    }
+    
+    ctx.beginPath();
+    ctx.moveTo(startX, startY);
+    ctx.lineTo(offsetX, offsetY);
+    ctx.stroke();
+
+    ctx.strokeStyle = `hsl(${hue}, 100%, 50%)`;
+    ctx.lineWidth = lineWidth;
+
+    startX = offsetX;
+    startY = offsetY;
+
+    hue += 1;
+
+    if (hue > 360) {
+      hue = 0;
+    }
+
+    if (direction) {
+      lineWidth += 1;
+    } else {
+      lineWidth -= 1;
+    }
+
+    if (lineWidth > 100 || lineWidth < 0) {
+      direction = !direction;
+    }
+  }
+
+  window.addEventListener('mousemove', draw);
+  window.addEventListener('mousedown', ({offsetX, offsetY}) => {
+    isDrawing = true;
+    startX = offsetX;
+    startY = offsetY;
+  });
+  window.addEventListener('mouseup', () => isDrawing = false);
+</script>
+
+<style>
+  html, body {
+    margin: 0;
+  }
+</style>
+
+</body>
+</html>
