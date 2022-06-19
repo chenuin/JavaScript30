@@ -19,7 +19,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Day 08: Fun with HTML5 Canvas
 - Day 09: Dev Tools Domination
 - Day 10: Hold Shift and Check Checkboxes
-- Day 11: Custom Video Player
+- Day 11: [Custom Video Player](https://chenuin.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/) --- *2022/06/19* 👉 ( [source](11%20-%20Custom%20Video%20Player/scripts.js) )
 - Day 12: Key Sequence Detection
 - Day 13: Slide in on Scroll
 - Day 14: JavaScript References VS Copying
