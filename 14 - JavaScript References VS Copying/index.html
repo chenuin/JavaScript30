@@ -8,15 +8,27 @@
 
   <script>
     // start with strings, numbers and booleans
+    let num1 = 10;
+    let num2 = num1;
+    num2 = 20;
+    console.log(num1, num2);
+
+    let bool1 = true;
+    let bool2 = bool1;
+    bool2 = false;
+    console.log(bool1, bool2);
 
     // Let's say we have an array
     const players = ['Wes', 'Sarah', 'Ryan', 'Poppy'];
 
     // and we want to make a copy of it.
+    const copy1 = players;
 
     // You might think we can just do something like this:
+    copy1.push('Cheuin');
 
     // however what happens when we update that array?
+    console.log(copy1, players);
 
     // now here is the problem!
 
@@ -27,12 +39,22 @@
     // So, how do we fix this? We take a copy instead!
 
     // one way
+    const copy2 = players.slice();
 
     // or create a new array and concat the old one in
+    const copy3 = [].concat(players);
 
     // or use the new ES6 Spread
+    const copy4 = [...players];
+
+    const copy5 = Array.from(players);
 
     // now when we update it, the original one isn't changed
+    copy2.push('A');
+    copy3.push('B');
+    copy4.push('C');
+    copy5.push('D');
+    console.log(copy2, copy3, copy4, copy5, players);
 
     // The same thing goes for objects, let's say we have a person object
 
@@ -45,10 +67,33 @@
     // and think we make a copy:
 
     // how do we take a copy instead?
+    const copyObj1 = Object.assign({}, person, {age: 100});
 
     // We will hopefully soon see the object ...spread
+    const copyObj2 = {...person};
+    copyObj2['age'] = 100;
+
+    console.log(copyObj1, copyObj2, person);
 
     // Things to note - this is only 1 level deep - both for Arrays and Objects. lodash has a cloneDeep method, but you should think twice before using it.
+
+    const profile = {
+        name: 'chenuin',
+        age: 29,
+        hobby: ['piano', 'basketball'],
+    }
+
+    const copyObj3 = {...profile};
+    copyObj3['age'] = 200;
+    copyObj3['hobby'][0] = 'music';
+
+    console.log(copyObj3, profile);
+
+    const copyObj4 = JSON.parse(JSON.stringify(profile));
+    copyObj4['age'] = 300;
+    copyObj4['hobby'][0] = 'sing';
+
+    console.log(copyObj4, profile);
 
   </script>
 
