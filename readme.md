@@ -21,9 +21,19 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Day 10: Hold Shift and Check Checkboxes
 - Day 11: [Custom Video Player](https://chenuin.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/) --- *2022/06/19* 👉 ( [source](11%20-%20Custom%20Video%20Player/scripts.js) )
 - Day 12: [Key Sequence Detection](https://chenuin.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/) --- *2022/06/19* 👉 ( [source](12%20-%20Key%20Sequence%20Detection/index.html) )
-- Day 13: Slide in on Scroll
-- Day 14: JavaScript References VS Copying
+- Day 13: [Slide in on Scroll](https://chenuin.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/) --- *2022/06/20* 👉 ( [source](13%20-%20Slide%20in%20on%20Scroll/index.html) )
+- Day 14: [JavaScript References VS Copying](https://chenuin.github.io/JavaScript30/14%20-%20JavaScript%20References%20VS%20Copying/) --- *2022/06/20* 👉 ( [source](14%20-%20JavaScript%20References%20VS%20Copying/index.html) )
 - Day 15: LocalStorage
+- Day 16: Mouse Move Shadow
+- Day 17: Sort Without Articles
+- Day 18: Adding Up Times with Reduce
+- Day 19: Webcam Fun
+- Day 20: Speech Detection
+- Day 21: Geolocation
+- Day 22: 23 - Speech Synthesis
+- Day 23: Speech Synthesis
+- Day 24: Sticky Nav
+- Day 25: Event Capture, Propagation, Bubbling and Once
 
 ## Community #JavaScript30 Content
 
