@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Console Tricks!</title>
+</head>
+<body>
+
+  <p onClick="makeGreen()">×BREAK×DOWN×</p>
+
+  <script>
+    const dogs = [{ name: 'Snickers', age: 2 }, { name: 'hugo', age: 8 }];
+
+    function makeGreen() {
+      const p = document.querySelector('p');
+      p.style.color = '#BADA55';
+      p.style.fontSize = '50px';
+    }
+
+    // Regular
+    console.log('hello');
+
+    // Interpolated
+    const num = 2;
+    console.log('I have $s book', num);
+    console.log(`I have ${num} books`);
+
+    // Styled
+    console.log('%c It should be blue', 'color: blue; font-size: 20px');
+
+    // warning!
+    console.warn('Waring');
+
+    // Error :|
+    console.error('Error!');
+
+    // Info
+    console.info('Info here.');
+
+    // Testing
+    console.assert(1 === 1, 'Nothing happened');
+    console.assert(1 === 2, 'It\'s wrong');
+
+    // clearing
+    // console.clear();
+
+    // Viewing DOM Elements
+    const p = document.querySelector('p');
+    console.log(p);
+    console.dir(p);
+
+    // Grouping together
+    dogs.forEach(({name, age}) => {
+        // console.group(name);
+        console.groupCollapsed(name);
+        console.log(`My name is ${name}`);
+        console.log(`My age is ${age}`);
+        console.groupEnd(name);
+    });
+
+    // counting
+    console.count('chenuin');
+    console.count('chenuin');
+    console.count('chenuin');
+
+    // timing
+    console.time('hello');
+    new Promise((resolve) => {
+      setTimeout(() => {
+        resolve();
+        console.timeEnd('hello');
+      }, 2000);
+    });
+
+    console.table(dogs);
+  </script>
+</body>
+</html>
