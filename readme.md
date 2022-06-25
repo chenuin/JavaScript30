@@ -18,7 +18,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Day 07: [Array Cardio Day 2](https://chenuin.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/) --- *2022/06/19* 👉 ( [source](07%20-%20Array%20Cardio%20Day%202/index.html) )
 - Day 08: [Fun with HTML5 Canvas](https://chenuin.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/) --- *2022/06/19* 👉 ( [source](08%20-%20Fun%20with%20HTML5%20Canvas/index.html) )
 - Day 09: [Dev Tools Domination](https://chenuin.github.io/JavaScript30/09%20-%20Dev%20Tools%20Domination/) --- *2022/06/22* 👉 ( [source](09%20-%20Dev%20Tools%20Domination/index.html) )
-- Day 10: Hold Shift and Check Checkboxes
+- Day 10: [Hold Shift and Check Checkboxes](https://chenuin.github.io/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/) --- *2022/06/25* 👉 ( [source](10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html) )
 - Day 11: [Custom Video Player](https://chenuin.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/) --- *2022/06/19* 👉 ( [source](11%20-%20Custom%20Video%20Player/scripts.js) )
 - Day 12: [Key Sequence Detection](https://chenuin.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/) --- *2022/06/19* 👉 ( [source](12%20-%20Key%20Sequence%20Detection/index.html) )
 - Day 13: [Slide in on Scroll](https://chenuin.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/) --- *2022/06/20* 👉 ( [source](13%20-%20Slide%20in%20on%20Scroll/index.html) )
