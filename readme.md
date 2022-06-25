@@ -18,15 +18,15 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Day 07: [Array Cardio Day 2](https://chenuin.github.io/JavaScript30/07%20-%20Array%20Cardio%20Day%202/) --- *2022/06/19* 👉 ( [source](07%20-%20Array%20Cardio%20Day%202/index.html) )
 - Day 08: [Fun with HTML5 Canvas](https://chenuin.github.io/JavaScript30/08%20-%20Fun%20with%20HTML5%20Canvas/) --- *2022/06/19* 👉 ( [source](08%20-%20Fun%20with%20HTML5%20Canvas/index.html) )
 - Day 09: [Dev Tools Domination](https://chenuin.github.io/JavaScript30/09%20-%20Dev%20Tools%20Domination/) --- *2022/06/22* 👉 ( [source](09%20-%20Dev%20Tools%20Domination/index.html) )
-- Day 10: Hold Shift and Check Checkboxes
+- Day 10: [Hold Shift and Check Checkboxes](https://chenuin.github.io/JavaScript30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/) --- *2022/06/25* 👉 ( [source](10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index.html) )
 - Day 11: [Custom Video Player](https://chenuin.github.io/JavaScript30/11%20-%20Custom%20Video%20Player/) --- *2022/06/19* 👉 ( [source](11%20-%20Custom%20Video%20Player/scripts.js) )
 - Day 12: [Key Sequence Detection](https://chenuin.github.io/JavaScript30/12%20-%20Key%20Sequence%20Detection/) --- *2022/06/19* 👉 ( [source](12%20-%20Key%20Sequence%20Detection/index.html) )
 - Day 13: [Slide in on Scroll](https://chenuin.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/) --- *2022/06/20* 👉 ( [source](13%20-%20Slide%20in%20on%20Scroll/index.html) )
 - Day 14: [JavaScript References VS Copying](https://chenuin.github.io/JavaScript30/14%20-%20JavaScript%20References%20VS%20Copying/) --- *2022/06/21* 👉 ( [source](14%20-%20JavaScript%20References%20VS%20Copying/index.html) )
 - Day 15: [LocalStorage](https://chenuin.github.io/JavaScript30/15%20-%20LocalStorage/) --- *2022/06/22* 👉 ( [source](15%20-%20LocalStorage/index.html) )
 - Day 16: Mouse Move Shadow
-- Day 17: Sort Without Articles
-- Day 18: Adding Up Times with Reduce
+- Day 17: [Sort Without Articles](https://chenuin.github.io/JavaScript30/17%20-%20Sort%20Without%20Articles/) --- *2022/06/24* 👉 ( [source](17%20-%20Sort%20Without%20Articles/index.html) )
+- Day 18: [Adding Up Times with Reduce](https://chenuin.github.io/JavaScript30/18%20-%20Adding%20Up%20Times%20with%20Reduce/) --- *2022/06/25* 👉 ( [source](18%20-%20Adding%20Up%20Times%20with%20Reduce/index.html) )
 - Day 19: Webcam Fun
 - Day 20: Speech Detection
 - Day 21: Geolocation

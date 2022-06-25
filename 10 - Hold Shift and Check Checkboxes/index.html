@@ -96,6 +96,30 @@
   </div>
 
 <script>
+  let preChecked;
+
+  const checkboxes = document.querySelectorAll('.inbox input[type=checkbox]');
+  const handleChecked = e => {
+    if (e.shiftKey && e.target.checked) {
+      let isBetween = false;
+
+      if (preChecked) {
+        checkboxes.forEach(elem => {
+          if (elem === e.target || elem === preChecked) {
+            isBetween = !isBetween;
+          }
+
+          if (isBetween) {
+            elem.checked = true;
+          }
+        });
+      }
+
+      preChecked = e.target;
+    }
+  };
+
+  checkboxes.forEach(elem => elem.addEventListener('click', handleChecked));
 </script>
 </body>
 </html>
