@@ -32,8 +32,13 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Day 21: Geolocation
 - Day 22: 23 - Speech Synthesis
 - Day 23: Speech Synthesis
-- Day 24: Sticky Nav
+- Day 24: [Sticky Nav](https://chenuin.github.io/JavaScript30/24%20-%20Sticky%20Nav/) --- *2022/07/01* 👉 ( [source](24%20-%20Sticky%20Nav/index.html) )
 - Day 25: Event Capture, Propagation, Bubbling and Once
+- Day 26: Stripe Follow Along Nav
+- Day 27: Click and Drag
+- Day 28: Video Speed Controller
+- Day 29: Countdown Timer
+- Day 30: Whack A Mole
 
 ## Community #JavaScript30 Content
 
