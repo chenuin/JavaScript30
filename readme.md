@@ -30,7 +30,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Day 19: Webcam Fun
 - Day 20: Speech Detection
 - Day 21: Geolocation
-- Day 22: Follow Along Link Highlighter
+- Day 22: [Follow Along Link Highlighter](https://chenuin.github.io/JavaScript30/22%20-%20Follow%20Along%20Link%20Highlighter/) --- *2022/07/02* 👉 ( [source](22%20-%20Follow%20Along%20Link%20Highlighter/index.html) )
 - Day 23: Speech Synthesis
 - Day 24: [Sticky Nav](https://chenuin.github.io/JavaScript30/24%20-%20Sticky%20Nav/) --- *2022/07/01* 👉 ( [source](24%20-%20Sticky%20Nav/index.html) )
 - Day 25: [Event Capture, Propagation, Bubbling and Once](https://chenuin.github.io/JavaScript30/25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/) --- *2022/07/02* 👉 ( [source](25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/index.html) )
