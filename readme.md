@@ -28,12 +28,17 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Day 17: [Sort Without Articles](https://chenuin.github.io/JavaScript30/17%20-%20Sort%20Without%20Articles/) --- *2022/06/24* 👉 ( [source](17%20-%20Sort%20Without%20Articles/index.html) )
 - Day 18: [Adding Up Times with Reduce](https://chenuin.github.io/JavaScript30/18%20-%20Adding%20Up%20Times%20with%20Reduce/) --- *2022/06/25* 👉 ( [source](18%20-%20Adding%20Up%20Times%20with%20Reduce/index.html) )
 - Day 19: Webcam Fun
-- Day 20: Speech Detection
+- Day 20: [Speech Detection](https://chenuin.github.io/JavaScript30/20%20-%20Speech%20Detection/) --- *2022/07/03* 👉 ( [source](20%20-%20Speech%20Detection/index.html) )
 - Day 21: Geolocation
-- Day 22: 23 - Speech Synthesis
+- Day 22: [Follow Along Link Highlighter](https://chenuin.github.io/JavaScript30/22%20-%20Follow%20Along%20Link%20Highlighter/) --- *2022/07/02* 👉 ( [source](22%20-%20Follow%20Along%20Link%20Highlighter/index.html) )
 - Day 23: Speech Synthesis
-- Day 24: Sticky Nav
-- Day 25: Event Capture, Propagation, Bubbling and Once
+- Day 24: [Sticky Nav](https://chenuin.github.io/JavaScript30/24%20-%20Sticky%20Nav/) --- *2022/07/01* 👉 ( [source](24%20-%20Sticky%20Nav/index.html) )
+- Day 25: [Event Capture, Propagation, Bubbling and Once](https://chenuin.github.io/JavaScript30/25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/) --- *2022/07/02* 👉 ( [source](25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/index.html) )
+- Day 26: [Stripe Follow Along Nav](https://chenuin.github.io/JavaScript30/26%20-%20Stripe%20Follow%20Along%20Nav/) --- *2022/07/03* 👉 ( [source](26%20-%20Stripe%20Follow%20Along%20Nav/index.html) )
+- Day 27: Click and Drag
+- Day 28: Video Speed Controller
+- Day 29: Countdown Timer
+- Day 30: Whack A Mole
 
 ## Community #JavaScript30 Content
 

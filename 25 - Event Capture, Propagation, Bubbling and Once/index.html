@@ -42,7 +42,24 @@
 
 <button></button>
 <script>
+  const divList = document.querySelectorAll('div');
+  const button = document.querySelector('button');
 
+  function logText(e) {
+    e.stopPropagation();
+    console.log(this.classList.value);
+
+    // capture = true, one => two => three
+    // capture = false, three => two => one
+  }
+
+  function handleClick() {
+    // removeEventListener after trigger once
+    console.log('click once!');
+  }
+
+  divList.forEach(div => div.addEventListener('click', logText, {capture: false}));
+  button.addEventListener('click', handleClick, {once: true});
 </script>
 </body>
 </html>
