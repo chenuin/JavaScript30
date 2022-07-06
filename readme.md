@@ -24,7 +24,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Day 13: [Slide in on Scroll](https://chenuin.github.io/JavaScript30/13%20-%20Slide%20in%20on%20Scroll/) --- *2022/06/20* 👉 ( [source](13%20-%20Slide%20in%20on%20Scroll/index.html) )
 - Day 14: [JavaScript References VS Copying](https://chenuin.github.io/JavaScript30/14%20-%20JavaScript%20References%20VS%20Copying/) --- *2022/06/21* 👉 ( [source](14%20-%20JavaScript%20References%20VS%20Copying/index.html) )
 - Day 15: [LocalStorage](https://chenuin.github.io/JavaScript30/15%20-%20LocalStorage/) --- *2022/06/22* 👉 ( [source](15%20-%20LocalStorage/index.html) )
-- Day 16: Mouse Move Shadow](https://chenuin.github.io/JavaScript30/16%20-%20Mouse%20Move%20Shadow/) --- *2022/07/03* 👉 ( [source](16%20-%20Mouse%20Move%20Shadow/index.html) )
+- Day 16: [Mouse Move Shadow](https://chenuin.github.io/JavaScript30/16%20-%20Mouse%20Move%20Shadow/) --- *2022/07/03* 👉 ( [source](16%20-%20Mouse%20Move%20Shadow/index.html) )
 - Day 17: [Sort Without Articles](https://chenuin.github.io/JavaScript30/17%20-%20Sort%20Without%20Articles/) --- *2022/06/24* 👉 ( [source](17%20-%20Sort%20Without%20Articles/index.html) )
 - Day 18: [Adding Up Times with Reduce](https://chenuin.github.io/JavaScript30/18%20-%20Adding%20Up%20Times%20with%20Reduce/) --- *2022/06/25* 👉 ( [source](18%20-%20Adding%20Up%20Times%20with%20Reduce/index.html) )
 - Day 19: Webcam Fun
