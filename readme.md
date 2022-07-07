@@ -36,7 +36,7 @@ Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 - Day 25: [Event Capture, Propagation, Bubbling and Once](https://chenuin.github.io/JavaScript30/25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/) --- *2022/07/02* 👉 ( [source](25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/index.html) )
 - Day 26: [Stripe Follow Along Nav](https://chenuin.github.io/JavaScript30/26%20-%20Stripe%20Follow%20Along%20Nav/) --- *2022/07/03* 👉 ( [source](26%20-%20Stripe%20Follow%20Along%20Nav/index.html) )
 - Day 27: [Click and Drag](https://chenuin.github.io/JavaScript30/27%20-%20Click%20and%20Drag/) --- *2022/07/06* 👉 ( [source](27%20-%20Click%20and%20Drag/index.html) )
-- Day 28: Video Speed Controller
+- Day 28: [Video Speed Controller](https://chenuin.github.io/JavaScript30/28%20-%20Video%20Speed%20Controller/) --- *2022/07/07* 👉 ( [source](28%20-%20Video%20Speed%20Controller/index.html) )
 - Day 29: Countdown Timer
 - Day 30: Whack A Mole
 
